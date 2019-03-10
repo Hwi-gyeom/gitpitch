@@ -4,9 +4,9 @@
 <h1>gson</h1>
 @size[80%](Data formats)
 
-<h1>
 
 
+<br>
 2019.03.11
 @snapend
 ---
