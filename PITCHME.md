@@ -8,6 +8,10 @@ of<br>
 2019.03.11
 @snapend
 ---
+@snap[east]
+![](profile1.jpg)
+@snapend
+
 profile
 ================
 * @color[orange](2012.03 ~ 2016.02)<br>@size[80%](**Bachelor's course of @color[blue](Mechanical and Aerospace engineering) in Seoul Nat'l Univ**)
@@ -16,6 +20,4 @@ profile
 <br><br>
 * @color[orange](2018/08 ~    now)<br>@size[80%](**master's course of information security in KAIST (prof. Lee Jooyoung)**)
 
-@snap[east span-100]
-![](profile1.jpg)
-@snapend
+
