@@ -3,7 +3,7 @@
 @snap[midpoint slide1]
 <h1>Introduction</h1>
 @size[60%](of)<br>
-@size[80%](Data formats)
+@size[120%](Data formats)
 <br><br>
 2019.03.11
 @snapend
