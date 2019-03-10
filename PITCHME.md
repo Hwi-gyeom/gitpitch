@@ -5,10 +5,7 @@
 @size[80%](Data formats)
 @snapend
 
-@snap[south-east author-box]
-@fa[envelope](prataprc@gmail.com - R Pratap Chakravarthy) <br/>
-@fa[github](https://github.com/bnclabs/gson) <br/>
-@snapend
+
 
 #### 2019.03.11
 ---
