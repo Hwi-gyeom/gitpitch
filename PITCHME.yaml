@@ -1,5 +1,5 @@
 theme : white
-layout : top-left
-theme-override : template/css/PITCHME.css
+layout : centor
+theme-override : PITCHME.css
 logo : logo2.png
 logo-position : top-left
