@@ -10,6 +10,6 @@ of<br>
 ---
 profile
 ================
-* @color[orange](2012.03 ~ 2016.02)<br>@color[blue]@size[80%](Bachelor's course) of Mechanical and Aerospace engineering in Seoul Nat'l Univ
+* @color[orange](2012.03 ~ 2016.02)<br>@color[blue](@size[80%](Bachelor's course)) of Mechanical and Aerospace engineering in Seoul Nat'l Univ
 * 2016.03 ~ 2018.02<br>master's course of Aerospace engineering in Seoul Nat'l Univ
 * 2018/08 ~  now<br>master's course of information security in KAIST (prof. Lee Jooyoung)
