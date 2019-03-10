@@ -3,12 +3,13 @@
 @snap[midpoint slide1]
 <h1>Introduction</h1>
 of<br>
-@size[120%](Kim Gwigyeom)
+@size[120%](Kim Hwigyeom)
 <br><br>
 2019.03.11
 @snapend
 ---
-### profile
-#### 2012.03 ~ 2016.02      Bachelor's course of Mechanical and Aerospace engineering in Seoul Nat'l Univ
-#### 2016.03 ~ 2018.02      master's course of Aerospace engineering in Seoul Nat'l Univ
-#### 2018/08 ~  now         master's course of information security in KAIST (prof. Lee Jooyoung)
+profile
+================
+* 2012.03 ~ 2016.02      Bachelor's course of Mechanical and Aerospace engineering in Seoul Nat'l Univ
+* 2016.03 ~ 2018.02      master's course of Aerospace engineering in Seoul Nat'l Univ
+* 2018/08 ~  now         master's course of information security in KAIST (prof. Lee Jooyoung)
