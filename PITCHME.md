@@ -12,9 +12,10 @@ of<br>
 ![](profile1.jpg)
 @snapend
 
+@snap[west span-70]
 profile
 ================
-@snap[west span-70]
+
 * @color[orange](2012.03 ~ 2016.02)<br>@size[80%](**Bachelor's course of @color[blue](Mechanical and Aerospace engineering) in Seoul Nat'l Univ**)
 <br><br>
 * @color[orange](2016.03 ~ 2018.02)<br>@size[80%](**master's course of @color[blue](Aerospace engineering) in Seoul Nat'l Univ**)
