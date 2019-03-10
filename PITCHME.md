@@ -14,11 +14,12 @@ of<br>
 
 profile
 ================
-@snap[east span-70]
+@snap[west span-70]
 * @color[orange](2012.03 ~ 2016.02)<br>@size[80%](**Bachelor's course of @color[blue](Mechanical and Aerospace engineering) in Seoul Nat'l Univ**)
 <br><br>
 * @color[orange](2016.03 ~ 2018.02)<br>@size[80%](**master's course of @color[blue](Aerospace engineering) in Seoul Nat'l Univ**)
 <br><br>
 * @color[orange](2018/08 ~    now)<br>@size[80%](**master's course of information security in KAIST (prof. Lee Jooyoung)**)
+
 @snapend
 
