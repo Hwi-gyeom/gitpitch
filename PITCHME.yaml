@@ -3,3 +3,5 @@ layout : centor
 theme-override : PITCHME.css
 logo : logo2.PNG
 logo-position : top-left
+slide-number : true
+vertical-center : false
