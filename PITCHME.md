@@ -1,6 +1,14 @@
-@title[Introduction
-of 
-Kim Hwigyeom]
+@title[gson]
+
+@snap[midpoint slide1]
+<h1>gson</h1>
+@size[80%](Data formats)
+@snapend
+
+@snap[south-east author-box]
+@fa[envelope](prataprc@gmail.com - R Pratap Chakravarthy) <br/>
+@fa[github](https://github.com/bnclabs/gson) <br/>
+@snapend
 
 #### 2019.03.11
 ---
