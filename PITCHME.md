@@ -16,6 +16,6 @@ profile
 <br><br>
 * @color[orange](2018/08 ~    now)<br>@size[80%](**master's course of information security in KAIST (prof. Lee Jooyoung)**)
 
-@snap[east]
+@snap[east span-100]
 ![](profile1.jpg)
 @snapend
