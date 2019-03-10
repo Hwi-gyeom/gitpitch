@@ -1,3 +1,5 @@
 theme : white
 layout : top-left
 theme-override : template/css/PITCHME.css
+logo : logo2.png
+logo-position : top-left
