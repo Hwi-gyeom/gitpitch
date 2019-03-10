@@ -16,4 +16,6 @@ profile
 <br><br>
 * @color[orange](2018/08 ~    now)<br>@size[80%](**master's course of information security in KAIST (prof. Lee Jooyoung)**)
 
-![](logo2.PNG)
+@snap[north-west]
+![](z01-05-김휘겸-13 (2).jpg)
+@snapend
