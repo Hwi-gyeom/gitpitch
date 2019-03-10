@@ -8,6 +8,7 @@
 
 
 #### 2019.03.11
+@snapend
 ---
 ### profile
 #### 2012.03 ~ 2016.02      Bachelor's course of Mechanical and Aerospace engineering in Seoul Nat'l Univ
