@@ -3,7 +3,6 @@
 ### Kim Hwigyeom
 #### 2019.03.11
 ---
-layout : top-left
 ### profile
 #### 2012.03 ~ 2016.02      Bachelor's course of Mechanical and Aerospace engineering in Seoul Nat'l Univ
 #### 2016.03 ~ 2018.02      master's course of Aerospace engineering in Seoul Nat'l Univ
