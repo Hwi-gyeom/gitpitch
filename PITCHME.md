@@ -2,8 +2,8 @@
 
 @snap[midpoint slide1]
 <h1>Introduction</h1>
-@size[60%](of)<br>
-@size[120%](Data formats)
+of<br>
+@size[120%](Kim Gwigyeom)
 <br><br>
 2019.03.11
 @snapend
