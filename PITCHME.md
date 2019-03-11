@@ -31,4 +31,12 @@ Self-diagonose
 @size[80%](- Usable PL : C, C++, Arduino, MATLAB)<br><br>
 * @color[orange](**Weakness**)<br>
 @size[80%](- Do not have many experiences in web programming<br>- Not good at  @color[blue](**PYTHON**))
+
+
 ---?image=MATLAB.PNG&position=bottom&size=40%
+
+MATLAB experience
+=================
+* The most programmed language I used
+* From bachelor to master's degree, always used MATLAB<br> for research and data processing
+* Masters degree topic : GPS ionospheric error modelling
