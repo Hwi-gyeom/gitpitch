@@ -41,7 +41,7 @@ MATLAB experience
 * From bachelor to master's degree, always used MATLAB<br> for research and data processing<br><br>
 * Masters degree topic : GPS ionospheric error modelling
 
----?image=snuglite.png&position=right
+---?image=snuglite.png
 Cubesat
 ==============
 * 10cm by 10cm by 10cm micro satellite<br>made for research & educational purpose<br><br>
