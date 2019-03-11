@@ -29,4 +29,5 @@ Self-diagonose
 * @color[orange](**Strength**)<br>
 @size[80%](- Experience of system engineering<br>- Different background with computer science<br>)- @color[blue](**PASSION**)<br>
 @size[80%](- Usable PL : C, C++, Arduino, MATLAB)<br><br>
-
+* @color[orange](**Weakness**)<br>
+@size[80%](- Do not have many experiences in web programming<br>- Lack of co-programming experince<br>- Not good at  @color[blue](**PYTHON**))
