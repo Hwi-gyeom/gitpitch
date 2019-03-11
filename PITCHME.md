@@ -22,5 +22,13 @@ profile
 <br><br>
 * @color[orange](2018/08 ~    now)<br>@size[80%](**master's course of information security <br>        in KAIST (CryptoLab)**)
 
-
+-----
+Self-diagonose
+=================
+* @color[orange](**Strength**)<br>
+@size[80%](
+- Experience of system engineering<br>
+- Different background with computer science<br>)
+- @color[blue](**PASSION**)<br>
+@size[80%](- Usable PL : C, C++, Arduino, MATLAB)<br><br>
 
