@@ -8,7 +8,7 @@ of<br>
 2019.03.11
 @snapend
 ---
-@size[40%](@snap[east span-30]
+@size[140%](@snap[east span-30]
 ![](profile1.jpg))
 @snapend
 
