@@ -31,5 +31,4 @@ Self-diagonose
 @size[80%](- Usable PL : C, C++, Arduino, MATLAB)<br><br>
 * @color[orange](**Weakness**)<br>
 @size[80%](- Do not have many experiences in web programming<br>- Not good at  @color[blue](**PYTHON**))
----
-+++?image=MATLAB.PNG&size=10%
+---?image=MATLAB.PNG&size=10%
