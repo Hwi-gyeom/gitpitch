@@ -56,8 +56,8 @@ Arduino, C experience
 * @color[orange](@size[120%](**C**))<br>- Transformed satellite orbit calculation C++ code to C to to embed it in Cubesat
 <br><br>
 
-+++?image=parsing1.PNG
-+++?image=2line.gif
-+++?image=orbit_sm.gif
++++?image=parsing1.PNG&size=contain
++++?image=2line.gif&size=contain
++++?image=orbit_sm.gif&size=contain
 
 ---
