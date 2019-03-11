@@ -61,3 +61,14 @@ Arduino, C experience
 +++?image=orbit_sm.gif&size=contain
 
 ---
+System, C++ experience
+==============
+* @color[orange](@size[120%](**System**))<br>- Made blueprint of ground station communication<br>- Helped making communication protocols
+<br><br>
+* @color[orange](@size[120%](**C++**))<br>- Using MFC framework, made @color[blue](communication program) & @color[blue](orbit determination program)
+<br><br>
+
++++?image=groundstation.PNG&size=contain
++++?image=protocol.PNG&size=contain
++++?image=communication.PNG&size=contain
++++?image=orbit_program.PNG&size=contain
