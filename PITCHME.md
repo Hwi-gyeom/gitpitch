@@ -32,4 +32,4 @@ Self-diagonose
 * @color[orange](**Weakness**)<br>
 @size[80%](- Do not have many experiences in web programming<br>- Not good at  @color[blue](**PYTHON**))
 ---
-+++?image=MATLAB.PNG&position=bottom&size=10%
++++?image=MATLAB.PNG&size=10%
