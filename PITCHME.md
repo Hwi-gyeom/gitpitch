@@ -40,3 +40,5 @@ MATLAB experience
 * The most programmed language I used<br><br>
 * From bachelor to master's degree, always used MATLAB<br> for research and data processing<br><br>
 * Masters degree topic : GPS ionospheric error modelling
+
+---
