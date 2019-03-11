@@ -48,3 +48,16 @@ Cubesat
 * My former Lab made cubesat as a contest prize KARI made<br><br>
 * Launched in Nov.2018, still on the sky<br><br>
 * My role<br>@color[blue](- Satellite orbit calculation<br>- Ground station building)
+---
+Arduino, C experience
+===============
+* @color[orange](@size[120%](**Arduino**))<br>- Made GPS receiver signal parsing code to embed it in Cubesat
+<br><br>
+* @color[orange](@size[120%](**C**))<br>- Transformed satellite orbit calculation C++ code to C to to embed it in Cubesat
+<br><br>
+
++++?image=parsing1.PNG
++++?image=2line.gif
++++?image=orbit_sm.gif
+
+---
