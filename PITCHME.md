@@ -5,7 +5,7 @@
 of<br>
 @size[120%](Kim Hwigyeom)
 <br><br>
-2019.03.11
+2019.03.12
 @snapend
 ---
 @size[140%](@snap[east span-30]
@@ -72,3 +72,8 @@ System, C++ experience
 +++?image=protocol.PNG&size=contain
 +++?image=communication.PNG&size=contain
 +++?image=orbit_program.PNG&size=contain
+
+---
+@snap[midpoint slide1]
+<h1>Q & A</h1>
+@snapend
