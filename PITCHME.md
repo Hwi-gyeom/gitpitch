@@ -27,7 +27,7 @@ profile
 Self-diagonose
 =================
 * @color[orange](**Strength**)<br>
-@size[80%](- Experience of system engineering<br>- Different background with computer science<br>)- @color[blue](**PASSION**)<br>
+@size[80%](- Experience of system engineering<br>- Different background about computer science<br>)- @color[blue](**PASSION**)<br>
 @size[80%](- Usable PL : C, C++, Arduino, MATLAB)<br><br>
 * @color[orange](**Weakness**)<br>
 @size[80%](- Do not have many experiences in web programming<br>- Not good at  @color[blue](**PYTHON**))
